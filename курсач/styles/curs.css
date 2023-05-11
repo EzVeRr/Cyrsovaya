@@ -1,0 +1,525 @@
+
+.pic1 {
+    width: 100%;
+}
+
+@font-face {
+    font-family: Italianno;
+    src: url('../fonts/Italianno.ttf');
+}
+
+.ym {
+    position: absolute;
+    width: 405px;
+    height: 100px;
+    left: 533px;
+    top: -62px;
+
+    font-family: Italianno, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@font-face {
+    font-family: Ital;
+    src: url('../fonts/Italiana-Regular.ttf');
+}
+
+.restik {
+    position: absolute;
+    width: 357px;
+    height: 75px;
+    left: 12px;
+    top: 0;
+
+    font-family: Ital, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.food {
+    position: absolute;
+    width: 204px;
+    height: 35px;
+    left: 431px;
+    top: 0px;
+
+    font-family: ital;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.about {
+    position: absolute;
+    width: 285px;
+    height: 75px;
+    left: 736px;
+    top: 0px;
+
+    font-family: Ital;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.none {
+    display: none;
+}
+
+.contacts {
+    position: absolute;
+    width: 347px;
+    height: 35px;
+    left: 1094px;
+    top: 0px;
+
+    font-family: Ital;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.rect1 {
+    position: absolute;
+    width: 500px;
+    height: 77px;
+    left: calc(50% - 563px / 2 + 529px);
+    top: 549px;
+
+    background: #221E1E;
+    mix-blend-mode: darken;
+}
+
+@font-face {
+    font-family: Island;
+    src: url('../fonts/IslandMoments-Regular.ttf');
+}
+
+.ribay {
+    position: absolute;
+    width: 577px;
+    height: 77px;
+    left: 900px;
+    top: 530px;
+
+    font-family: Island;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.welcome {
+    position: absolute;
+    width: 750px;
+    height: 225px;
+    left: 370px;
+    top: 310px;
+
+    font-family: Ital;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: grey;
+}
+
+body {
+    display: flex;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1440px) {
+
+
+    .pic1 {
+        width: 100%;
+    }
+
+    @font-face {
+        font-family: Italianno;
+        src: url('../fonts/Italianno.ttf');
+    }
+    .ym {
+        position: absolute;
+        width: 405px;
+        height: 58px;
+        left: 533px;
+        top: -62px;
+
+        font-family: Italianno;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 80px;
+        text-align: center;
+
+        color: #FFFFFF;
+
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    @font-face {
+        font-family: Ital;
+        src: url('../fonts/Italiana-Regular.ttf');
+    }
+    .restik {
+        position: absolute;
+        width: 357px;
+        height: 75px;
+        left: 12px;
+        top: 0px;
+
+        font-family: Ital;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 75px;
+        text-align: center;
+
+        color: #FFFFFF;
+
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .food {
+        position: absolute;
+        width: 204px;
+        height: 35px;
+        left: 431px;
+        top: 0px;
+
+        font-family: ital;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 75px;
+        text-align: center;
+
+        color: #FFFFFF;
+
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .about {
+        position: absolute;
+        width: 285px;
+        height: 75px;
+        left: 736px;
+        top: 0px;
+
+        font-family: Ital;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 75px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .contacts {
+        position: absolute;
+        width: 347px;
+        height: 35px;
+        left: 1094px;
+        top: 0px;
+
+        font-family: Ital;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 75px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .rect1 {
+        position: absolute;
+        width: 473px;
+        height: 77px;
+        left: calc(50% - 563px / 2 + 529px);
+        top: 549px;
+
+        background: #221E1E;
+        mix-blend-mode: darken;
+    }
+
+    @font-face {
+        font-family: Island;
+        src: url('../fonts/IslandMoments-Regular.ttf');
+    }
+    .ribay {
+        position: absolute;
+        width: 537px;
+        height: 77px;
+        left: 900px;
+        top: 530px;
+
+        font-family: Island;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 74px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .welcome {
+        position: absolute;
+        width: 750px;
+        height: 225px;
+        left: 370px;
+        top: 310px;
+
+        font-family: Ital;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 75px;
+        text-align: center;
+
+        color: #FFFFFF;
+
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover {
+        color: grey;
+    }
+
+    body {
+        display: flex;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .pic1 {
+        width: 100%;
+    }
+
+    .contacts {
+        display: flex;
+        margin: 1 auto;
+        left: 570px;
+        font-size: 32px;
+        margin-top: 48px;
+        width: 180px;
+    }
+
+    .about {
+        display: flex;
+        margin: 1 auto;
+        left: 420px;
+        font-size: 32px;
+        margin-top: 48px;
+    }
+
+    .food {
+        display: flex;
+        margin: 1 auto;
+        left: 280px;
+        font-size: 32px;
+        margin-top: 48px;
+    }
+
+    .restik {
+        font-size: 32px;
+        margin-top: 48px;
+        left: -60px
+    }
+
+    .rect1 {
+        left: 300px;
+        width: 468px;
+    }
+
+    .ribay {
+        left: 310px;
+        width: 450px;
+
+    }
+
+    .welcome {
+        left: 50px;
+        font-size: 32px;
+        width: 700px;
+
+    }
+
+    .ym {
+        left: 200px;
+        font-size: 48px;
+        margin-top: 65px;
+    }
+}
+
+.button {
+    position: absolute;
+    width: 49px;
+    height: 38px;
+    left: 1416px;
+    top: 10px;
+
+    background: url("../img/free-icon-menu-1828850.png");
+    display: none;
+}
+
+
+@media screen and (max-width: 320px) {
+
+    .none {
+        display: block;
+    }
+
+    .pic1 {
+        width: 100%;
+
+    }
+
+    .contacts {
+        display: none;
+
+    }
+
+    .about {
+        display: none;
+
+    }
+
+    .food {
+        display: none;
+    }
+
+    .rect1 {
+        left: 0px;
+        width: 320px;
+    }
+
+    .ribay {
+        left: 0px;
+        font-size: 48px;
+        margin-top: 40px;
+        width: 300px;
+    }
+
+    .welcome {
+        left: 0px;
+        font-size: 24px;
+        word-wrap: break-word;
+        white-space: pre-line;
+        margin: 0 auto;
+        width: 300px;
+    }
+
+    .ym {
+        left: 0px;
+        font-size: 48px;
+        margin-top: 65px;
+        width: 300px;
+    }
+
+    .restik {
+        display: none;
+    }
+
+    .button {
+        display: block;
+        left: 280px;
+        margin-top: 50px;
+        width: 36px;
+        height: 32px;
+    }
+
+    .dropdown {
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        background-color: #f1f1f1;
+        min-width: 0px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+        margin-top: 90px;
+        position: absolute;
+        left: 199.5px
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #ddd;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+}
+
+
+
+
+

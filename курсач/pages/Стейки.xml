@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="stake.xslt"?>
+
+<data>
+    <products>
+        <product>
+            <href>https://steakandgrill.ru/wp-content/uploads/2019/10/3-stejk-ribaj-na-doske-1024x740.jpg</href>
+            <name>Рибай </name>
+            <text>Стейк из мясистой передней части тушки. Обладает высокой мраморностью.</text>
+            <cost>100byn</cost>
+        </product>
+        <product>
+            <href>https://media-cdn.tripadvisor.com/media/photo-s/1c/c8/e8/4d/caption.jpg</href>
+            <name>Стриплойн</name>
+            <text>Сочный, с ярким говяжьим вкусом стейк из поясничной части туши.</text>
+        <cost>70byn</cost>
+        </product>
+        <product>
+            <href>https://steakandgrill.ru/wp-content/uploads/2019/10/top-blejd-stejk-scaled.jpg</href>
+            <name>Топ-блейд</name>
+            <text>Вырез лопаточной части. Через весь кусок проходит жилка, которая размягчается при жарке. Считается второй по мягкости после вырезки.</text>
+            <cost>46byn</cost>
+        </product>
+        <product>
+            <href>https://thumbs.dreamstime.com/b/freshly-grilled-tomahawk-steak-slate-plate-salt-pepper-rosemary-parsley-herbs-sliced-pieces-juicy-beef-143059391.jpg</href>
+            <name>Томагавк </name>
+            <text>Знакомый нам стейк рибай, подающийся на длинном ребре. Называется он так из-за сходства с индейским боевым топором.</text>
+            <cost>76byn</cost>
+        </product>
+        <product>
+            <href>https://img.iamcook.ru/old/upl/recipes/zen/u-1191eeed4b325777a9be69a534a6d756.JPG</href>
+            <name>Шатобриан</name>
+            <text>Стейк является самым толстым из бескостных премиальных отрубов.</text>
+            <cost>65byn</cost>
+        </product>
+        <product>
+            <href>https://img.povar.ru/main/45/ea/fd/8f/steik_T-vone_steak-23874.jpg</href>
+            <name>Тибоун</name>
+            <text>Блюдо обладает средним содержанием жира и сочетает в себе лучшие качества стриплойна и тендерлойна.</text>
+            <cost>52byn</cost>
+        </product>
+        <product>
+            <href>https://myastoriya.com.ua/upload/medialibrary/799/7999f7af9ed90eead33e8cfdd7708e96.jpg</href>
+            <name>Стейк-обычный</name>
+            <text>Просто вкусный стейк</text>
+            <cost>43byn</cost>
+        </product>
+          <product>
+        <href>https://www.maggi.ru/data/images/recept/img640x500/recept_13018_c9ai.jpg</href>
+        <name>Стейк из мраморной говядины</name>
+        <text>Вкусный, сочный стейк из особого вида специально откормленных коров.</text>
+        <cost>73byn</cost>
+    </product>  
+	<product>
+        <href>https://storage.yandexcloud.net/moskvichmag/uploads/2022/08/meat-coin.com_.jpg</href>
+        <name>Стейк обернутый в золото</name>
+        <text>Вкусный стейк но для очень богатых</text>
+        <cost>203byn</cost>
+    </product>  
+	<product>
+        <href>https://www.burgermeister.ru/images/docs//Image/beeftartar-xxl.jpg</href>
+        <name>Тартар из говядины</name>
+        <text>Свежий тартар из говядины с яичным желтком и мелким лучком</text>
+        <cost>40byn</cost>
+    </product> 
+	<product>
+        <href>https://e0.edimdoma.ru/data/recipes/0014/5111/145111-ed4_wide.jpg?1628759198</href>
+        <name>Куриный стейк</name>
+        <text>Нежнейшее филе цыпленка-бройлера</text>
+        <cost>37byn</cost>
+    </product>  
+	<product>
+        <href>https://www.steakhome.ru/upload/iblock/3c8/t5g3rek5trn31ndoglnwt4zdb9zb1zmg.jpg</href>
+        <name>Стейк на углях</name>
+        <text>Вкусный medium-well прожарки стейк с запахом дымка</text>
+        <cost>43byn</cost>
+    </product>
+	    <product>
+        <href>https://zhiznsovkusom.ru/wp-content/uploads/2019/06/perfect-steak.jpg</href>
+        <name>Тендернлойн</name>
+        <text>Сочный, мягкий, выдержаный стейк</text>
+        <cost>43byn</cost>
+    </product>
+	    <product>
+        <href>https://фермыч.рф/upload/resize_cache/iblock/256/1260_1260_0/256773b9054ae8a0c07c420d4755843e.jpg</href>
+        <name>Стейк из шеи</name>
+        <text>Просто вкусный стейк</text>
+        <cost>43byn</cost>
+    </product>
+	    <product>
+        <href>https://steakandgrill.ru/wp-content/uploads/2020/04/3-stejk-iz-govyazhej-vyrezki-na-grile-300x219.jpg</href>
+        <name>Стейк из вырезки</name>
+        <text>Просто вкусный стейк из говяжьей вырезки</text>
+        <cost>43byn</cost>
+</product>
+    </products>
+</data>
